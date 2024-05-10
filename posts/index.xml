@@ -8,6 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 07 May 2024 11:48:36 +0200</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Colony</title>
+      <link>/posts/colony/</link>
+      <pubDate>Tue, 07 May 2024 11:48:36 +0200</pubDate>
+      
+      <guid>/posts/colony/</guid>
+      <description>This product is currently under development.
+ Welcome to Colony: Unleashing the Power of Space Data In a world increasingly driven by data, space-derived information stands out as a pivotal resource for a myriad of applications—from enhancing urban planning and managing climate risks to optimizing agricultural practices and beyond. We are dedicated to unlocking the vast potential of space data for businesses, researchers, and policymakers worldwide.
+What We Offer:  Access to a Wealth of Information: Our platform provides seamless access to a diverse range of space data, including satellite imagery, atmospheric readings, and more.</description>
+    </item>
+    
+    <item>
       <title>Company</title>
       <link>/posts/company/</link>
       <pubDate>Tue, 07 May 2024 11:48:36 +0200</pubDate>
@@ -15,6 +26,16 @@
       <guid>/posts/company/</guid>
       <description>Reaching space is both expensive and challenging. By cultivating a broader interest in the potential of space data, we can ensure the economic viability of this sector and set the stage for even more ambitious explorations.
 At p.Maricopa, our mission is twofold: on one hand, we support companies that operate spacecraft, helping them make their collected data accessible to everyone and enabling them to profit from their investments while sustaining their development.</description>
+    </item>
+    
+    <item>
+      <title>Trail</title>
+      <link>/posts/trail/</link>
+      <pubDate>Tue, 07 May 2024 11:48:36 +0200</pubDate>
+      
+      <guid>/posts/trail/</guid>
+      <description>This product is currently under development.
+ Introducing TRAIL: Transforming Your Satellite Data into Treasure Are you a satellite operator looking to maximize the value of your data? Connect with TRAIL via our Colony platform to unleash the full potential of your satellite assets. Whether you choose to transfer data directly from your existing infrastructure to ours or opt for our fully managed ground station services, we make it seamless.</description>
     </item>
     
   </channel>
